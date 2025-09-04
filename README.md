@@ -1,7 +1,8 @@
 # AI pF lab task 1
 ## classroom task
 ### GID HUB
-* this text is bold**
+
+* this text is bold **
 * <br/>
   This is for italic_
   - Unorderd list
