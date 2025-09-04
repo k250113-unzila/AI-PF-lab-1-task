@@ -5,7 +5,7 @@
 *This text is bold**
 * <br/>
 
-  _This is for italic_
+ _This is for italic_
 - Unorderd list
 <br/>
 
@@ -13,8 +13,7 @@
 - list 2
 - list 3
 - list 4
-- 
-  -<br/>
+-<br/>
 - Ordered list
   
 1. pf lab 1
