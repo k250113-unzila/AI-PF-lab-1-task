@@ -3,8 +3,8 @@
 ### GID HUB
 
 *This text is bold**
-
 * <br/>
+
  _This is for italic_
 - Unorderd list
 <br/>
