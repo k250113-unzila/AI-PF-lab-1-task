@@ -4,13 +4,15 @@
 
 * this text is bold **
 * <br/>
-  This is for italic_
-  - Unorderd list
+  _This is for italic_
+- Unorderd list
 <br/>
+
 - list 1
 - list 2
 - list 3
 - list 4
+- 
   -<br/>
 - Ordered list
   
