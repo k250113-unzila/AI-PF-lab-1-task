@@ -2,8 +2,9 @@
 ## classroom task
 ### GID HUB
 
-* this text is bold **
+*This text is bold**
 * <br/>
+
   _This is for italic_
 - Unorderd list
 <br/>
