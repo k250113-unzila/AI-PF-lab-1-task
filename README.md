@@ -1,2 +1,4 @@
-# AI-PF-lab-1-task
-introduction to c language( class task )
+# heading 1
+## heading 2
+### heading 3
+
